@@ -1,0 +1,6 @@
+venv/
+venv_linux/
+venv_windows/
+.idea/
+dist/
+*.egg-info/
