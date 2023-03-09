@@ -34,7 +34,7 @@ Change the directory to where you want to set up this system.
 
 You will need git installed. Have a look here if you dont: https://git-scm.com/downloads
 ```bash
-git clone https://github.com/something something something 
+git clone https://github.com/SatelliteApplicationsCatapult/osm_kml_search.git 
 ```
 
 You will need python, at least version 3.8. Have a look here if you need instructions. https://wiki.python.org/moin/BeginnersGuide/Download
