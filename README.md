@@ -7,15 +7,18 @@ Prints out the number of osm ways with the given feature tags inside the kml's p
 Needs to be given a KML file with the search area and a set of feature tags
 
 The first time you run this in a shell you will need to activate the virtual environment.
-linux/wsl:
+
+Linux/WSL:
 ```bash
 source ./venv/scripts/activate
 ```
-windows powershell:
+
+Windows PowerShell:
 ```powershell
 .\venv\Scripts\activate.ps1
 ```
-windows cmd:
+
+Windows CMD:
 ```bat
 .\venv\Scripts\activate.bat
 ```
